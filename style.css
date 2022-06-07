@@ -1,0 +1,18 @@
+.body_backgorund{
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+h1
+{
+	color: rgb(219, 5, 5); 
+	font-size: 40px;
+}
+#myCanvas{
+border-width: 10px;
+background-color: rgb(8, 234, 215);
+border-style: groove;
+}
+span{
+	font-size: 20px;
+}
